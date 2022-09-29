@@ -1,0 +1,19 @@
+.carousel-caption h5 {
+  font-size: 30px;
+  color: rgb(40, 86, 126);
+}
+
+.carousel-caption p {
+  font-size: 22px;
+  color: rgb(173, 129, 76);
+}
+
+.carousel-dark .carousel-indicators [data-bs-target] {
+  background-color: rgb(176, 58, 58);
+}
+
+.carousel-dark .carousel-control-next-icon,
+.carousel-dark .carousel-control-prev-icon {
+  color: rgb(222, 26, 26);
+  filter: brightness(1);
+}
